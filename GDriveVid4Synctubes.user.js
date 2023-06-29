@@ -6,10 +6,16 @@
 // @include https://www.cytu.be/r/*
 // @include https://psp-tv.com/r/*
 // @include https://www.psp-tv.com/r/*
+// @include http://psp-tv.com/r/*
+// @include http://www.psp-tv.com/r/*
 // @include https://cytube.xyz/r/*
 // @include https://www.cytube.xyz/r/*
 // @include http://cytube.xyz/r/*
 // @include http://www.cytu.be.xyz/r/*
+// @include http://baked.live/tv/*
+// @include http://www.baked.live/tv/*
+// @include https://baked.live/tv/*
+// @include https://www.baked.live/tv/*
 // @grant unsafeWindow
 // @grant GM_xmlhttpRequest
 // @grant GM.xmlHttpRequest
