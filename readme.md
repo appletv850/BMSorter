@@ -7,6 +7,12 @@ This repository will be deleted once the original owner updates
 
 add new song in js/bm/fnc_data_v2.js and images in img
 
+Changelog (August 2023)
+- Added Metali to the sorter under TBA
+
+Changelog (June 2023)
+- Added The Other One Album to the sorter
+
 Changelog (09/06/2020)
 - Added into Covers
      - PainKiller
